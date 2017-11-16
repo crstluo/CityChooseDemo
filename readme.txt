@@ -51,4 +51,4 @@
 尊重一下原创:http://blog.csdn.net/dmk877/article/details/49757731
 
 ps:由于上传csdn的资源最少都要2个csdn的积分,为了方便后面的人,还是上传到GitHub吧
-资源路径:
+资源路径:https://github.com/crstluo/CityChooseDemo
